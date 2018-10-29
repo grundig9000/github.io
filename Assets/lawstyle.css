@@ -1,0 +1,23 @@
+
+
+body  {
+ background-color: palegreen;   
+}
+
+#mainContent   {
+   text-align: center;
+   color: black;
+   padding-right: 30px;
+   padding-left: 50;
+   background-color:cyan;
+   padding-top: 20px;
+   padding-bottom: 30px;
+   border-width: 20px;
+   border-color: green;
+
+   
+}
+.Profile   {
+    float: right;
+    padding-left: 10px;
+}
